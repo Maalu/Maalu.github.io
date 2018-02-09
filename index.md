@@ -16,7 +16,7 @@ Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo
 
 [![](SkyOrHell.png)](https://maalu.github.io/JogoSkyOrHelll/)
 
-[![](TimeIF.png)](https://ortegagamer.github.io/GAMES/TimeIF/)
+[Time IF](https://ortegagamer.github.io/GAMES/TimeIF/)
 
 [Texto que vai aparecer](link)
 
