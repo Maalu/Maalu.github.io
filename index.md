@@ -6,7 +6,7 @@ Criando **minha**, _página_, ~~principal~~.
 
 # Quem sou eu 
 
-Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo.
+Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo!
 
 # Portfólio
 
