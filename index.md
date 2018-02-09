@@ -12,9 +12,9 @@ Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo
 
 ## Games
 
-[Cacique](https://maalu.github.io/Cacique/)
+[![](Cacique.png)](https://maalu.github.io/Cacique/)
 
-[Sky or Hell](https://maalu.github.io/JogoSkyOrHelll/)
+[![](SkyOrHell.png)](https://maalu.github.io/JogoSkyOrHelll/)
 
 [Time IF](https://ortegagamer.github.io/GAMES/TimeIF/)
 
