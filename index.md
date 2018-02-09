@@ -14,7 +14,7 @@ Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo
 
 [Cacique](https://maalu.github.io/Cacique/)
 
-[Sky or Hell](https://maalu.github.io/SkyOrHell/)
+[Sky or Hell](https://maalu.github.io/JogoSkyOrHelll/)
 
 [Time IF](https://ortegagamer.github.io/GAMES/TimeIF/)
 
