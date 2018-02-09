@@ -16,7 +16,17 @@ Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo
 
 [Sky or Hell](https://maalu.github.io/SkyOrHell/)
 
+[Time IF](https://ortegagamer.github.io/GAMES/TimeIF/)
+
+[Texto que vai aparecer](link)
+
 ## Artes
+
+![Snap](https://i.pinimg.com/originals/83/13/af/8313afd5cfeb799e37cb5c5c7e58c516.png)
+
+![Sorvete](https://i.pinimg.com/736x/c6/cc/34/c6cc3499b42a7019598df83478cf3822.jpg)
+
+## Projetos
 
 * Proj teatro
 * Proj música
@@ -25,9 +35,6 @@ Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo
 1. Marcelo
 2. Saula
 3. Idelmárcia
-
-## Projetos
-
 * * *
 
 ** negrito  
