@@ -8,6 +8,8 @@ Criando **minha**, _página_, ~~principal~~.
 
 Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo!
 
+
+
 # Portfólio
 
 ## Games
@@ -28,12 +30,12 @@ Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo
 
 ## Projetos
 
-* Proj teatro
-* Proj música
+* Proj Tower Defense
+* Proj TPM
 * Proj jogos
 
 1. Marcelo
-2. Saula
+2. Saulo
 3. Idelmárcia
 * * *
 
