@@ -8,7 +8,7 @@ Criando **minha**, _página_, ~~principal~~.
 
 Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo!
 
-
+[![](Facebook.png.ico)](https://www.facebook.com/profile.php?id=100003718041099)
 
 # Portfólio
 
