@@ -4,9 +4,9 @@ layout: default
 
 Criando **minha**, _página_, ~~principal~~.
 
-# Quem sou eu 
+# MARIA LUIZA TÔRRES 
 
-Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo!
+Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano de Programação de Jogos Digitais no IFRN, e este site é para expor o meu Portfólio que mostra a aplicação prática dos conhecimentos teóricos com criatividade e sempre envolvendo temáticas direcionadas, ou seja, com um significado, que foi desenvolvido para a disciplina de Motores II, com orientação do prof. Marcelo Barros.
 
 [![](Face1.png)](https://www.facebook.com/profile.php?id=100003718041099)
 [![](insta.png)](https://www.instagram.com/maalutorres_/?hl=pt-br)
