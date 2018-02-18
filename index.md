@@ -36,9 +36,9 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 ## Projetos
 * * *
 
-[Projeto Tower Defense](https://docs.google.com/document/d/1lrXzKqerY_mEJzq13pbQ5NXuLQaIVNnSVZRXJFqMkpw/edit)
+[Projeto Tower Defense](https://docs.google.com/document/d/1lrXzKqerY_mEJzq13pbQ5NXuLQaIVNnSVZRXJFqMkpw/edit?usp=sharing)
 
-[Projeto TPM](https://docs.google.com/document/d/1__sZBvXHLTzlQWs3SWeLHwPAAZmJxpW9g-SWbBv3XVs/edit)
+[Projeto TPM](https://docs.google.com/document/d/1xqlDq506KE5JzwqrHWI9lRNqczwdvhuR1n3EqJ9Uk94/edit?usp=sharing)
 
 1. Marcelo
 2. Saulo
