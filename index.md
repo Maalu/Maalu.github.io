@@ -10,7 +10,7 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 [![](Face.png)](https://www.facebook.com/profile.php?id=100003718041099)
 [![](Insta.png)](https://www.instagram.com/maalutorres_/?hl=pt-br)
 [![](Email.png)](https://plus.google.com/u/0/110156732730742866868)
-[![](Email.png)](https://twitter.com/maria567_luiza)
+[![](Twitter.png)](https://twitter.com/maria567_luiza)
 
 # Portfólio
 * * *
