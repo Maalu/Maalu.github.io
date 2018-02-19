@@ -35,7 +35,7 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 
 ![](Zumbi.png)
 ![](Zumbizinha.png)
-![](Studios coxinha.png)
+![](Coxinha.png)
 
 ## Projetos
 * * *
