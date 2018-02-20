@@ -38,7 +38,9 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 * * *
 
 ![](Zumbi.png)
+
 ![](Zumbizinha.png)
+
 ![](Coxinha.png)
 
 ## Projetos
@@ -48,9 +50,6 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 
 [Projeto TPM](https://docs.google.com/document/d/1xqlDq506KE5JzwqrHWI9lRNqczwdvhuR1n3EqJ9Uk94/edit?usp=sharing)
 
-1. Marcelo
-2. Saulo
-3. Idelmárcia
 * * *
 
 ** negrito  
