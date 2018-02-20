@@ -5,6 +5,8 @@ layout: default
 # MARIA LUIZA TÔRRES 
 * * *
 
+[![](Eu.jpeg)]
+
 Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano de Programação de Jogos Digitais no IFRN, e este site é para expor o meu Portfólio que mostra a aplicação prática dos conhecimentos teóricos com criatividade, desenvolvido para a disciplina de Motores II com orientação do prof. Marcelo Barros.
 
 [![](Face.png)](https://www.facebook.com/profile.php?id=100003718041099)
