@@ -20,9 +20,15 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 
 [![](Cacique.png)](https://maalu.github.io/Cacique/)
 
+* Cacique é um jogo de plataforma em 3ª pessoa, onde o objetivo é ajudar o cacique a conseguir alimentos para a sua tribo. 
+
 [![](SkyOrHell.png)](https://maalu.github.io/JogoSkyOrHelll/)
 
+* Sky Or Hell foi produzido com o intuito de mostrar aos jogadores como chegar ao céu praticando o que agrada a Deus.
+
 [Time IF](https://ortegagamer.github.io/GAMES/TimeIF/)
+
+* Time IF é jogado em 1ª pessoa e tem o objetivo de fugir de um campus abandonado do IFRN.
 
 [Texto que vai aparecer](link)
 
