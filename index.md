@@ -20,7 +20,7 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 ## Games
 * * *
 
-[![]()](https://maalu.github.io/Cacique/)
+[![](Cacique.png)](https://maalu.github.io/Cacique/)
 
 * Cacique é um jogo de plataforma em 3ª pessoa, onde o objetivo é ajudar o cacique a conseguir alimentos para a sua tribo. 
 
