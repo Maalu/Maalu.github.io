@@ -34,7 +34,7 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 
 [![](TowerDefence.png)](https://maalu.github.io/TowerDefence/)
 
-* O **Tower Defense*
+* O **Tower Defense**
 
 [Texto que vai aparecer](link)
 
