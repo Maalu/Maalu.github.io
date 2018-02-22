@@ -9,10 +9,6 @@ layout: default
 
 Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano de Programação de Jogos Digitais no IFRN, e este site é para expor o meu Portfólio que mostra a aplicação prática dos conhecimentos teóricos com criatividade, desenvolvido para a disciplina de Motores II, com orientação do prof. Marcelo Barros.
 
-[![](Face.png)](https://www.facebook.com/profile.php?id=100003718041099)
-[![](Insta.png)](https://www.instagram.com/maalutorres_/?hl=pt-br)
-[![](Email.png)](https://plus.google.com/u/0/110156732730742866868)
-[![](Twitter.png)](https://twitter.com/maria567_luiza)
 
 # Portfólio
 * * *
@@ -31,6 +27,8 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 [![](TimeIF.png)](https://maalu.github.io/TimeIF/)
 
 * **Time IF** é jogado em 1ª pessoa e tem o objetivo de fugir de um campus abandonado do IFRN.
+
+(https://maalu.github.io/TowerDefence/)
 
 [Texto que vai aparecer](link)
 
