@@ -24,7 +24,7 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 
 * **Cacique** é um jogo de plataforma em 3ª pessoa, onde o objetivo é ajudar o cacique a conseguir alimentos para a sua tribo. 
 
-[![](SkyOrHell.png)](https://maalu.github.io/JogoSkyOrHelll/)
+[![](Sky.png)](https://maalu.github.io/JogoSkyOrHelll/)
 
 * **Sky Or Hell** foi produzido com o intuito de mostrar aos jogadores como chegar ao céu praticando o que agrada a Deus.
 
