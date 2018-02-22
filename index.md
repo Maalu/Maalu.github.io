@@ -32,7 +32,9 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 
 * **Time IF** é jogado em 1ª pessoa e tem o objetivo de fugir de um campus abandonado do IFRN.
 
-(https://maalu.github.io/TowerDefence/)
+[![](TowerDefence.png)](https://maalu.github.io/TowerDefence/)
+
+* O **Tower Defense*
 
 [Texto que vai aparecer](link)
 
