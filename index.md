@@ -28,7 +28,7 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 
 * **Sky Or Hell** foi produzido com o intuito de mostrar aos jogadores como chegar ao céu praticando o que agrada a Deus.
 
-[Time IF](https://maalu.github.io/TimeIF/)
+[![](TimeIF.png)](https://maalu.github.io/TimeIF/)
 
 * **Time IF** é jogado em 1ª pessoa e tem o objetivo de fugir de um campus abandonado do IFRN.
 
