@@ -13,6 +13,10 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 # Portfólio
 * * *
 
+## Mapa de influência
+
+![](Influencemap.png)
+
 ## Games
 * * *
 
