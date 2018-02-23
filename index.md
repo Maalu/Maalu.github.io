@@ -14,6 +14,7 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 * * *
 
 ## Mapa de influência
+* * *
 
 ![](InfluenceMap.png)
 
@@ -34,9 +35,7 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 
 [![](TowerDefence.png)](https://maalu.github.io/TowerDefence/)
 
-* O **Tower Defense**
-
-[Texto que vai aparecer](link)
+* **Tower Defense** é um gênero de jogo digital. Esse está associado ao tema "vírus e bactérias", onde as torres simbolizam remédios que agem como defensores no organismo humano. 
 
 ## Artes
 * * *
@@ -60,16 +59,7 @@ Olá, sou Malu! Tenho 18 anos, moro em Ceará-Mirim/RN, estou cursando o 3º ano
 [Projeto TPM](https://docs.google.com/document/d/1xqlDq506KE5JzwqrHWI9lRNqczwdvhuR1n3EqJ9Uk94/edit?usp=sharing)
 
 [Projeto TPM - Web site](https://tpmundo.github.io/home)
-
 * * *
-
-** negrito  
-_ itálico  
-~~ riscado  
-3* separados por espaço - linha horizontal  
-#s uma ou mais hashtsges criam capítulos ou subcapítulos
-*s asterico cria lista não ordenada
-nºs número seguido de pontuação cria lista ordenada
 
 * * *
 ### Social
